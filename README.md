@@ -1,4 +1,4 @@
-# Hi, I’m Chidimma 👋
+# Hi, I’m Dimma 👋
 
 I work at the intersection of **Human Resources, Compensation, and Data Analytics**.
 

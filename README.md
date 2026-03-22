@@ -2,8 +2,9 @@
 
 I work at the intersection of **Human Resources, Compensation, and Data Analytics**.
 
-My focus is simple:
-Designing **fair, competitive, and data-driven reward systems** that actually make sense across global teams.
+Over the years, I’ve seen how much compensation decisions shape organizations; who they attract, who they retain, and how people actually experience work.
+
+Now, I’m focused on bringing more structure, clarity, and data into those decisions.
 
 
 ## What I’m building
